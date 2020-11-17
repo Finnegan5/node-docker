@@ -1,0 +1,24 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "Simple Dockerized Node App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finnegan5/node-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Finnegan5/node-docker/issues"
+  },
+  "homepage": "https://github.com/Finnegan5/node-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
